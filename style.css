@@ -258,7 +258,7 @@ body {
   height: 100%;
   width: 50%;
   /* background-color: rgb(150, 212, 35); */
-  background-image: url('laptop-img.jpeg');
+  background-image: url("laptop-img.jpeg");
   background-position: center;
   background-size: cover;
   /* padding-top: 10vw; */
@@ -325,7 +325,7 @@ body {
 }
 
 .last-img {
-  background-image: url('090fefe24d23d47584f6ddc7eb5a241e.png');
+  background-image: url("090fefe24d23d47584f6ddc7eb5a241e.png");
   background-position: center;
   background-size: cover;
 }
@@ -361,7 +361,7 @@ body {
   height: 40%;
   width: 100%;
   /* background-color: aquamarine; */
-  background-image: url('7wnove7K-ZQ-HD.jpg');
+  background-image: url("7wnove7K-ZQ-HD.jpg");
   background-position: center;
   background-size: cover;
 }
@@ -370,7 +370,7 @@ body {
   height: 40%;
   width: 100%;
   /* background-color: red; */
-  background-image: url('090fefe24d23d47584f6ddc7eb5a241e.png');
+  background-image: url("090fefe24d23d47584f6ddc7eb5a241e.png");
   background-position: center;
   background-size: cover;
 }
@@ -443,7 +443,7 @@ body {
 }
 
 .second-img {
-  background-image: url('JS-Thumb.jpg');
+  background-image: url("JS-Thumb.jpg");
   /* height: 40%; */
   background-position: center;
   background-size: cover;
